@@ -1,0 +1,38 @@
+# Ignore build outputs
+bin/
+obj/
+
+# User-specific files
+.vscode/
+.vs/
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.userprefs
+
+# Auto-generated files
+*.log
+*.lock.json
+
+# Visual Studio Code settings
+.vscode/
+
+# Mac specific files
+.DS_Store
+
+# Windows specific files
+Thumbs.db
+desktop.ini
+
+# Rider settings
+.idea/
+
+# JetBrains settings
+*.sln.iml
+
+# Ignore publish outputs
+publish/
+
+*.jfm
+*.dbmdl
